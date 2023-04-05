@@ -3,14 +3,8 @@
 - I'm Valera Arestov
 - 🌱 I’m currently learning Java
 
-<p align="center">
-  <img width="250" src="https://giphy.com/gifs/dance-dancing-fun-l3vQZbJbpy2Qw8NHi">
-</p>
 
-
-<p align="center">
-  <img width="250" src="![giphy](https://user-images.githubusercontent.com/86243221/230008004-c6d0dfe5-3d82-4d6b-9ab0-a96f6fb6677f.gif)">
-</p>
+![](https://github.com/behem0thik/behem0thik/blob/master/giphy.gif)
 
 <!--
 **behem0thik/behem0thik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
