@@ -1,7 +1,7 @@
 ### Hi there 👋
 [![wakatime](https://wakatime.com/badge/user/32c921ba-38a0-484c-8cd4-fae6cc49fa6a.svg)](https://wakatime.com/@32c921ba-38a0-484c-8cd4-fae6cc49fa6a)
 - I'm Valera Arestov
-- 🌱 I’m currently learning reacive microservices on Java with Spring boot
+- 🌱 I’m currently learning reactive microservices on Java with Spring boot
 
 
 ![](https://github.com/behem0thik/behem0thik/blob/master/giphy.gif)
