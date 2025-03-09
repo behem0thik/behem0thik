@@ -1,6 +1,5 @@
 ### Hi there 👋
 [![wakatime](https://wakatime.com/badge/user/32c921ba-38a0-484c-8cd4-fae6cc49fa6a.svg)](https://wakatime.com/@32c921ba-38a0-484c-8cd4-fae6cc49fa6a)
-- I'm Valera
 - 🌱 I’m currently learning microservice architecture
 - 👯 I’m looking to collaborate on interesting opensource project
 
